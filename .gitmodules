@@ -3,4 +3,4 @@
 	url = https://github.com/alvinlaurente/binar-challenge3.git
 [submodule "PretestJS"]
 	path = PretestJS
-	url = https://gitlab.com/alvinlaurente/pretest-js.git
+	url = https://github.com/alvinlaurente/pretestjs.git
