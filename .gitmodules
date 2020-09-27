@@ -1,6 +1,6 @@
 [submodule "ChallengeCh3"]
 	path = ChallengeCh3
-	url = https://github.com/alvinlaurente/binar-Full-Stack-Web-Dev-3.git
+	url = https://github.com/alvinlaurente/binar-challenge3.git
 [submodule "Pretest"]
 	path = Pretest
-	url = https://github.com/alvinlaurente/binar-Full-Stack-Web-Dev-3.git
+	url = https://github.com/alvinlaurente/pretestjs.git
