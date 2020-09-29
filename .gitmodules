@@ -1,9 +1,9 @@
 [submodule "ChallengeCh3"]
 	path = ChallengeCh3
 	url = https://github.com/alvinlaurente/binar-ChallengeCh3.git
-[submodule "Pretest JS"]
-	path = Pretest JS
-	url = https://github.com/alvinlaurente/pretestjs.git
 [submodule "ChallengeCh4"]
 	path = ChallengeCh4
 	url = https://github.com/alvinlaurente/binar-ChallengeCh4.git
+[submodule "Pretest JS"]
+	path = Pretest JS
+	url = https://github.com/alvinlaurente/pretestjs.git
