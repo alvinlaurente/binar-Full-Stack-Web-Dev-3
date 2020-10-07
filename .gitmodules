@@ -7,3 +7,9 @@
 [submodule "Pretest JS"]
 	path = Pretest JS
 	url = https://github.com/alvinlaurente/pretestjs.git
+[submodule "OOP_bank"]
+	path = OOP_bank
+	url = https://github.com/alvinlaurente/js-oop-bank.git
+[submodule "OOP_parking"]
+	path = OOP_parking
+	url = https://github.com/alvinlaurente/js-oop-parking-area.git
