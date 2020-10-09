@@ -13,3 +13,6 @@
 [submodule "OOP_parking"]
 	path = OOP_parking
 	url = https://github.com/alvinlaurente/js-oop-parking-area.git
+[submodule "OOP_spbu"]
+	path = OOP_spbu
+	url = https://github.com/alvinlaurente/js-oop-spbu.git
