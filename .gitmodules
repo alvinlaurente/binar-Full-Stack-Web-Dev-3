@@ -18,4 +18,7 @@
 	url = https://github.com/alvinlaurente/js-oop-spbu.git
 [submodule "ChallengeCh5"]
 	path = ChallengeCh5
-	url = https://github.com/alvinlaurente/binar-challengech5
+	url = https://github.com/alvinlaurente/binar-challengech5.git
+[submodule "ChallengeCh6"]
+	path = ChallengeCh6
+	url = https://github.com/alvinlaurente/binar-challengech6.git
