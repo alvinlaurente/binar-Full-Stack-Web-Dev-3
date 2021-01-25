@@ -22,3 +22,9 @@
 [submodule "ChallengeCh6"]
 	path = ChallengeCh6
 	url = https://github.com/alvinlaurente/binar-challengech6.git
+[submodule "ChallengeCh7"]
+	path = ChallengeCh7
+	url = https://gitlab.com/alvinlaurente/binar-challengech7.git
+[submodule "aurora"]
+	path = aurora
+	url = https://github.com/alvinlaurente/binar-challengech8.git
